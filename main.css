@@ -1,0 +1,63 @@
+
+
+body {
+    
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    background-color: white;
+    padding-top: 100px;
+
+}
+
+h1 {
+    font-size: 60px;
+    padding-bottom: 0px;
+}
+
+h2 {
+    font-size: 40px;
+
+}
+
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+#new-task-form{
+    padding-bottom: 0px;
+    padding-top: 0px;
+
+}
+
+.task-list {
+    text-align: center;
+
+}
+
+#new-task-submit {
+    font-size: 18px;
+    height: 36px;
+    width: 100px;
+
+}
+
+button.edit,
+button.delete {
+  font-size: 16px;
+  padding: 5px 12px;
+}
+
+div.content input.text {
+    font-size: 18px;
+    height: 30px;
+    width: 500px;
+  }
+
+
+main {
+    text-align: center;
+}
